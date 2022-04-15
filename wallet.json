@@ -1,0 +1,26 @@
+{
+  "user_currency": "USD",
+  "user_money": "0",
+  "currencies": {
+    "BTC": {
+      "quantity": "0.234",
+      "rate": "3892.62"
+    },
+    "LTC": {
+      "quantity": "3.54",
+      "rate": "178.62"
+    },
+    "ETH": {
+      "quantity": "8.23",
+      "rate": "2564.62"
+    }
+  },
+  "apis": {
+    "BITBAY": {
+      "volume": "33195.01"
+    },
+    "BITTREX": {
+      "volume": "175.23"
+    }
+  }
+}
